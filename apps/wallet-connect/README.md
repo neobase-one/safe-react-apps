@@ -1,6 +1,6 @@
 # Walletconnect Safe App
 
-Safe Wallet integration for version 1 & 2.
+Safe Wallet integration for version 1 & 2
 
 ## Config env variables
 
